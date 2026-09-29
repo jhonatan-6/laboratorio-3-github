@@ -1,0 +1,5 @@
+git pull
+git switch -c desarrollo-1
+git branch
+git add .
+git commit -m "Desarrollo programa fibonacci, comandos y lista"

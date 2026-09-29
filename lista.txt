@@ -1,6 +1,5 @@
 Encargado de grupo: jhonantan Pastor Quispe Samo
-<<<<<<< HEAD
-Desarrollador1 : Sebastian Camilo Orihuela Fernandez
-=======
 Desarrollador 2: Jafet Abdias Mendoza Churqui
->>>>>>> 0e68afb (Nueva version recursiva fibonacci, estructura de datos, lista)
+=======
+Desarrollador-1 : Sebastian Camilo Orihuela Fernandez
+desarrollador 3: yamil rodrigo calle argana
